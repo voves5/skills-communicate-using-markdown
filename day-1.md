@@ -10,4 +10,5 @@ a
 
 
 /details
-asd
+abc: abcd
+A: D
